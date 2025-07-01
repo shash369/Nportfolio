@@ -76,7 +76,7 @@ const projects = [
     title: "Project 9",
     description: "An interactive Sort visualization built during my learning to explore DSA. It features dynamic array generation, step-by-step sorting, and color-coded comparisons, providing an engaging way for beginners to understand the sorting process.",
     stack: [{ name: "HTML 5" },{name:"javaScript"},{name:"Css"}],
-    image: "/assets/project/project9.png",
+    image: "/assets/project/sort.png",
     live: "no",
     github: "https://github.com/shash369/Sorting-Visualizer",
   },{
